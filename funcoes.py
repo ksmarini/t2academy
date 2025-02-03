@@ -1,4 +1,6 @@
 """Funções em python"""
+# TODO: montar função que recebe parametros do usuário
+# TODO montar função que recebe 3 parametros dos usuário
 
 def saudacao(nome="Krisofferson"):
     print(f"Olá {nome}, tudo bem?")
